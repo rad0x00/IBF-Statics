@@ -1,0 +1,73 @@
+/*
+Theme Name: Instant Business Finance
+Theme URI:
+Description:
+Author:ClickClickMedia
+Author URI:clickClick.media
+Template: custom-theme
+Version: 1.0.0
+*/
+body.iosBugFixCaret.modal-open {position: fixed;left: 0;right: 0;width: 100%;}#gform_wrapper_6 .gform_ajax_spinner {display: none;}.gform_validation_container {display: none !important;}.widget_calendar {padding-top:20px;}#wp-calendar {width: 100%; }#wp-calendar caption { text-align: center; color: #333; font-size: 12px; }#wp-calendar thead { font-size: 10px; }#wp-calendar thead th { padding-bottom: 10px;  text-align: center; }#wp-calendar tbody { color: #aaa; }#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}#wp-calendar tbody td:hover { background: #fff; }#wp-calendar tbody .pad { background: none; }#wp-calendar tfoot #next { font-size: 10px; text-transform: uppercase; text-align: right; }#wp-calendar tfoot #prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+.pages-faqs {padding:50px 0 100px;}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield.gform_hidden {
+    display: none;
+}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield.fullw,
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield.faddress {
+    width: 100%;
+}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield:not(.displaylabel) .gfield_label {
+    display: none;
+}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield .ginput_container_address label {
+    display: none;
+}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield .ginput_container_address input {
+    margin-bottom: 16px;
+}
+.page-id-577 .gfield_radio li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.page-id-577 .gchoice_15_60_1 label {
+    display: inline !important;
+}
+.page-id-577 .gchoice_15_60_1 label:after {
+    margin: 0 auto !important;
+}
+.page-id-577 .gform_body .ginput_container_address.ginput_complex span:not(:first-of-type) {
+   width: 50%;
+   display: inline-block
+}
+.page-id-577 .gform_body .gfield:not(.add6f) .ginput_container_address.ginput_complex span:nth-of-type(even):not(:first-of-type) {
+    padding-right: 20px;
+}
+.page-id-577 .gform_body .gfield.add6f .ginput_container_address.ginput_complex span {
+   width: 50%;
+   display: inline-block  
+}
+.page-id-577 .gform_body .gfield.add6f .ginput_container_address.ginput_complex span:nth-of-type(odd) {
+    padding-right: 20px;
+}
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield input, 
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield select, 
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield textarea {
+	position: relative;
+    outline: none;
+    outline-color: transparent;
+    border-radius: 3px;	
+    background-color: #ede9e9;
+    border: 1px solid #bcbcbc;
+    color: #1b2c3a;
+    padding: 0 15px;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.page-id-577 .page-layout .page-content .gform_wrapper form .gform_body .gform_fields .gfield textarea  {
+	padding: 15px;
+}
+.page-id-577 .page-layout .page-content h2 {
+    font-size: 28px;
+    margin-bottom: 0;
+}
